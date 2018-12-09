@@ -1,0 +1,22 @@
+    body {
+    size:100%;
+    text-align: center;
+    background-color: fuchsia;
+    background-image: url(../images/80.jpg);
+}
+
+h1 {
+    color: black;
+    font-family: comic sans-serif;
+    font-style: italic;
+    font-size: 110pt;
+    margin-bottom: 100px;
+
+}
+
+#start {
+    color:red;
+    background-color:pink;
+    font-size: 60pt;
+    margin: 10px;
+}
